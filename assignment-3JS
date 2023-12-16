@@ -1,0 +1,53 @@
+Question 1-
+	Write the Code for all Data types.
+Answer-
+	1. string = "ALOK" or "ALOK123".
+	2. number = 1234 or 123.45'
+	3. null = it is special type of Data type.
+	4. undefined = it is default when we not assign any value in a variable.
+	5. bigint = 1232424235n.
+	6. boolean = true or false.
+	7. nan = represents not a number
+-----------------------------------------------------------------------------------------------------------------------------------------
+Question 2- 
+	What are the uses of JavaScript Operators?
+Answer -
+	we use operators in javascript to perform some operation on operations.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+Question 3:- 
+	Explain the Assignment Operator.
+Answer :-
+	'=', '+=', '-=', '*=', '/=', '%=', '**=', is assignment operator which is use for assign value inside a variable.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 4:-
+	Explain the all Arithmetic Operators.
+Answer :-
+	'==', '!=', '+', '-', '*', '/', '%', '**', '++', '--', is arithmetic operators.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 5:-
+	What are the Binary Operators in js.
+Answer :-
+	Binaty Operators is aply in two operants like 
+		a+b, a-b.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+Question 6:- 
+	Explain the Pre-Increment and Post Increment in js.
+Answer :-
+	In pre-Increment first value is incremented then value will assign, Post Increment first value assign 
+	then value will increment.
+	Examples:-
+	1.	let a = 10;
+		let b = ++a;  
+		here b is 11 and a is also 11.
+
+	2.	let a = 10;
+		let b = a++;  
+		here b is 10 and a is also 11.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------	
